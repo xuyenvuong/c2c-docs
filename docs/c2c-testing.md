@@ -14,7 +14,7 @@
 
 ---
 
-### To get you going, here are the steps you'll need to do:
+### Here are the steps you'll need to do:
 
 - After you setup your Metamask, Goto `Settings`
 
@@ -35,7 +35,7 @@
 - Then fill in all info as shown below, then click `Save`:
 
   1. Network name = `Max Vuong Ethereum`
-  1. New RPC URL = `http://maxvuong.tplinkdns:8546`
+  1. New RPC URL = `http://maxvuong.tplinkdns.com:8546`
   1. Chain ID = `31337`
   1. Currency symbol = `ETH`
 
