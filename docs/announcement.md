@@ -9,4 +9,4 @@ Anyone who helps testing will get air-drop of "100 C2C" tokens (or the equivalen
 This is also a great opportunity for you to learn how to make additional income via C2C Swap decentralized application.
 
 Here is how to participate:
-
+https://github.com/xuyenvuong/c2c-docs/blob/main/docs/c2c-testing.md
