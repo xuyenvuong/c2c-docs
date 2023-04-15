@@ -50,3 +50,7 @@
 - You can now go back to urls: https://c2cswap.eth or https://c2cswap.eth.limo to start testing.
 
 ## Thank you very much! :D
+
+---
+
+## How to file a bug guide [file-bug](./file-bug.md)
