@@ -4,9 +4,9 @@
 
 ### To get you going, here are the steps you'll need to do:
 
-1.  Install Metamask Wallet Brower Extention (https://metamask.io)
+1.  Install MetaMask Wallet Brower Extention (https://metamask.io)
 1.  Add "Max Vuong Ethereum" as your test blockchain.
-1.  Received test assets:
+1.  Receive test assets:
     - 100 ETH
     - 3,000,000 C2C
     - 3,000,000 DAI
