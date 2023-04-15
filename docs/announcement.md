@@ -10,3 +10,7 @@ This is also a great opportunity for you to learn how to make additional income 
 
 Here is how to participate:
 https://github.com/xuyenvuong/c2c-docs/blob/main/docs/c2c-testing.md
+
+Best,
+
+-Max-
